@@ -33,7 +33,8 @@ class car_InventoryAdmin(admin.ModelAdmin):
 
 ```
 # OUTPUT
-![alt text](<Screenshot 2025-09-22 133940.png>)3
+<img width="1920" height="1080" alt="Screenshot 2025-09-22 133940" src="https://github.com/user-attachments/assets/4ffe8abd-2e46-4cd4-be97-6b3614fdee13" />
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
